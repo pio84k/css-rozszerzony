@@ -1,0 +1,13 @@
+div[typ="vip"] {
+    color: red;
+}
+
+div[detaliczny="tak"] {
+
+    color: green;
+}
+
+.klient[detaliczny="tak"] {
+
+    color: yellow;
+}
